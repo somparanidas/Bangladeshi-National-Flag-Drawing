@@ -15,7 +15,11 @@ This project demonstrates how to draw the national flag of Bangladesh using Pyth
 1. **Install Python:**
    If you don't have Python installed, download and install it from the [official Python website](https://www.python.org/downloads/).
 
-2. **Run the Code:**
-   Open a terminal or command prompt and execute the following command:
-   ```bash
-   main.py
+Copy the code on your Code Editor and press F5 button.
+
+## Demo
+
+
+
+https://github.com/user-attachments/assets/74b7327e-2161-4812-bf28-842199070712
+
